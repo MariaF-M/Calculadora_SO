@@ -1,0 +1,7 @@
+.vscode-server/
+.cache/
+.bash_history
+.wget-hsts
+.vscode-server/**
+.cache/**
+*.log
